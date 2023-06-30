@@ -22,6 +22,7 @@ This repository includes and summraise some resources in networking
 - A root server matrics
   - https://a.root-servers.org/metrics
 
+![Root Servers](./img/root-servers.png)
  
 ### Dig Command
 
@@ -68,3 +69,5 @@ Full documentation cen be found in https://stat.ripe.net/docs/02.data-api/ (Very
 ### FB Goes Down! 
 You can observe how FB went down on October 4, 2021 at 15:00 by extracting their NS server, extracting the ASN, and inserting it into the RIPE BGPlay. 
 - https://stat.ripe.net/widget/bgplay
+
+![BGPlay](./img/fb_down.png)
