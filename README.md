@@ -33,11 +33,12 @@ This repository includes and summraise some resources in networking
 - dig google.com any
 - dig @ns.example.com -tAXFR example.com
   
-- flags:
+- DNS Flags:
   - rd: Recursion Desired
   - ra: Recursion Available
   - aa: Authoritative Answer
   - qr: specifies whether it is a query (0), or a response (1)
+  - https://www.zytrax.com/books/dns/ch15/#answer
 
 
 
