@@ -32,6 +32,7 @@ This repository includes and summraise some resources in networking
 - dig +all +answer +multiline google.com any
 - dig google.com any
 - dig @ns.example.com -tAXFR example.com
+- dig -t <NS,AA,AAAA,TXT> @8.8.8.8 google.com
   
 - DNS Flags:
   - rd: Recursion Desired
