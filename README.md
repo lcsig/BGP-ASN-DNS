@@ -73,3 +73,8 @@ You can observe how FB went down on October 4, 2021 at 15:00 by extracting their
 - https://stat.ripe.net/widget/bgplay
 
 ![BGPlay](./img/fb_down.png)
+
+## Buy me a Coffee: 
+BTC: bc1q2kqvggm552h0csyr0awa2zepdapxdqnacw0z5w
+
+![BTC](https://raw.githubusercontent.com/lcsig/API-Hooking/refs/heads/master/img/btc.png)
