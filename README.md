@@ -70,7 +70,9 @@ Full documentation cen be found in https://stat.ripe.net/docs/02.data-api/ (Very
 
 ### FB Goes Down! 
 You can observe how FB went down on October 4, 2021 at 15:00 by extracting their NS server, extracting the ASN, and inserting it into the RIPE BGPlay. 
-- https://stat.ripe.net/widget/bgplay
+- [https://stat.ripe.net/widget/bgplay](https://stat.ripe.net/widget/bgplay#resource=AS32934)
+- https://bgplay.massimocandela.com/?resource=AS32934
+- https://github.com/massimocandela/BGPlay
 
 ![BGPlay](./img/fb_down.png)
 
