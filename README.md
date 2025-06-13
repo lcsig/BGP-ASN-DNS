@@ -41,7 +41,9 @@ This repository includes and summraise some resources in networking
   - qr: specifies whether it is a query (0), or a response (1)
   - https://www.zytrax.com/books/dns/ch15/#answer
 
-
+### Useful Websites
+- Query DNS from all over the world - Check for DNS Issues 
+  - https://www.whatsmydns.net/#A/google.com
 
 ## ASN 
 
